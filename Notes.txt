@@ -1,0 +1,7 @@
+no pre-defined models
+we can create networks based on common CNNs, but they have to be written by hand -> DO THIS
+use 64x64 image size
+we need at least 2 models -> create a basic NN and continue with the CNN (use resnet architecture, use SGD optimizer)
+do hyperparameter tuning with grid-search (with smaller dataset for time reasons; maybe use GPU)
+for the confusion matrix, use colors (also, https://stackoverflow.com/questions/61325314/how-to-change-plot-confusion-matrix-default-figure-size-in-sklearn-metrics-packa/62631438#62631438)
+use f1-score for metrics
