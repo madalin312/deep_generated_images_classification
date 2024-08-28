@@ -68,7 +68,7 @@ This project involves training deep classification models on a dataset containin
 
 ## How to Run
 1. **Clone the Repository**:
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/madalin312/deep_generated_images_classification
 	
 2. **Install Dependencies**:
     - Ensure you have Python and the necessary libraries installed:
